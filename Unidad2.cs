@@ -12,24 +12,29 @@ public class Ejemplo_2_1
           Console.WriteLine("También podés usar números negativos");
         }
         else Console.WriteLine("El número no es mayor a cero");
+      {  
       if (numero !=2)
-        Console.WriteLine("El número no es 2");  
-        if (numero > 0)
-          Console.WriteLine("El número es mayor a 0");
-        else
-          Console.WriteLine("El número no es mayor a 0");
+        Console.WriteLine("El número no es 2");
+      }
+      {        
+      if (numero > 0)
+        Console.WriteLine("El número es mayor a 0");
+      else
+       Console.WriteLine("El número no es mayor a 0");
         if (numero > 0)
           Console.WriteLine("El número es mayor a 0");
         if (numero == 0)
           Console.WriteLine("El número no es mayor a 0");
-
-          if (numero <= 10)
+      {  
+      if (numero <= 10)
             Console.WriteLine("El número es menor o igual a 10");
           else
             if (numero < 5)
               Console.WriteLine("El número es menor a 5");
             else
               Console.WriteLine("Ya me perdí qué número soy");
-*/              
+      }
+*/        
+            
     }
 }
