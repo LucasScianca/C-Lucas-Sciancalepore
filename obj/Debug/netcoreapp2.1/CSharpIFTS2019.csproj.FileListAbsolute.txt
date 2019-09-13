@@ -1,0 +1,11 @@
+C:\Users\Lucas\Documents\IFTS\Estructura de Datos\C-Lucas-Sciancalepore\Csharp\CSharpIFTS2019\bin\Debug\netcoreapp2.1\CSharpIFTS2019.deps.json
+C:\Users\Lucas\Documents\IFTS\Estructura de Datos\C-Lucas-Sciancalepore\Csharp\CSharpIFTS2019\bin\Debug\netcoreapp2.1\CSharpIFTS2019.runtimeconfig.json
+C:\Users\Lucas\Documents\IFTS\Estructura de Datos\C-Lucas-Sciancalepore\Csharp\CSharpIFTS2019\bin\Debug\netcoreapp2.1\CSharpIFTS2019.runtimeconfig.dev.json
+C:\Users\Lucas\Documents\IFTS\Estructura de Datos\C-Lucas-Sciancalepore\Csharp\CSharpIFTS2019\bin\Debug\netcoreapp2.1\CSharpIFTS2019.dll
+C:\Users\Lucas\Documents\IFTS\Estructura de Datos\C-Lucas-Sciancalepore\Csharp\CSharpIFTS2019\bin\Debug\netcoreapp2.1\CSharpIFTS2019.pdb
+C:\Users\Lucas\Documents\IFTS\Estructura de Datos\C-Lucas-Sciancalepore\Csharp\CSharpIFTS2019\obj\Debug\netcoreapp2.1\CSharpIFTS2019.csprojAssemblyReference.cache
+C:\Users\Lucas\Documents\IFTS\Estructura de Datos\C-Lucas-Sciancalepore\Csharp\CSharpIFTS2019\obj\Debug\netcoreapp2.1\CSharpIFTS2019.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\IFTS\Estructura de Datos\C-Lucas-Sciancalepore\Csharp\CSharpIFTS2019\obj\Debug\netcoreapp2.1\CSharpIFTS2019.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\IFTS\Estructura de Datos\C-Lucas-Sciancalepore\Csharp\CSharpIFTS2019\obj\Debug\netcoreapp2.1\CSharpIFTS2019.AssemblyInfo.cs
+C:\Users\Lucas\Documents\IFTS\Estructura de Datos\C-Lucas-Sciancalepore\Csharp\CSharpIFTS2019\obj\Debug\netcoreapp2.1\CSharpIFTS2019.dll
+C:\Users\Lucas\Documents\IFTS\Estructura de Datos\C-Lucas-Sciancalepore\Csharp\CSharpIFTS2019\obj\Debug\netcoreapp2.1\CSharpIFTS2019.pdb
