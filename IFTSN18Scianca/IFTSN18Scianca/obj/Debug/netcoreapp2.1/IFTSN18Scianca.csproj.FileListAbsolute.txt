@@ -1,0 +1,4 @@
+C:\Users\Lucas\Documents\IFTS\Estructura de Datos\C-Lucas-Sciancalepore\IFTSN18Scianca\IFTSN18Scianca\obj\Debug\netcoreapp2.1\IFTSN18Scianca.csprojAssemblyReference.cache
+C:\Users\Lucas\Documents\IFTS\Estructura de Datos\C-Lucas-Sciancalepore\IFTSN18Scianca\IFTSN18Scianca\obj\Debug\netcoreapp2.1\IFTSN18Scianca.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\IFTS\Estructura de Datos\C-Lucas-Sciancalepore\IFTSN18Scianca\IFTSN18Scianca\obj\Debug\netcoreapp2.1\IFTSN18Scianca.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\IFTS\Estructura de Datos\C-Lucas-Sciancalepore\IFTSN18Scianca\IFTSN18Scianca\obj\Debug\netcoreapp2.1\IFTSN18Scianca.AssemblyInfo.cs
